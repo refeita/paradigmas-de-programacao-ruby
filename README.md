@@ -1,5 +1,3 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/refeita/paradigmas-de-programacao-ruby)
-
 📌 Sobre
 
 Jogo Batalha Naval em Ruby da disciplina de paradigmas de programação UEPB - 2021.2
